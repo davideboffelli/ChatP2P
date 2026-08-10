@@ -120,5 +120,3 @@ msbuild chatclientp2p.sln
 - Il file `qodana.yaml` contiene la configurazione per l'analisi statica del codice
 
 ---
-
-*Sviluppato con ❤️ da [Davide Boffelli](https://github.com/davideboffelli)*
